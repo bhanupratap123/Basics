@@ -1,2 +1,2 @@
 # Basics
-Basics and the approach towards Data Science
+Basics Aproach towards Data Science
